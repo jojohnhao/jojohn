@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人简介</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>郝兆壮</h1>
+    </header>
+    <main>
+        <section id="about">
+            <h2>关于我</h2>
+            <p>北京中南律师事务所律师，专注各类民商事案件。
+</p>
+            <p>联系电话：16710181048，13202495857</p>
+        </section>
+        <!-- 因为专注，所以专业 -->
+    </main>
+    <footer>
+        <p>&copy; 郝兆壮 All rights reserved.</p>
+    </footer>
+</body>
+</html>
